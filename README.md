@@ -1,2 +1,8 @@
 # FLIPKART-CLONE
-A CLONE WEBSITE OF FLIPKART
+
+This is a clone of popular E-commerce website 'Flipkart'
+
+### Technologies used: 
+
++ HTML
++ CSS
